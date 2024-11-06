@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buen0-barbers/static/css/main.df985ef5.css",
+    "main.js": "/buen0-barbers/static/js/main.90c5fc09.js",
+    "static/js/453.946b9335.chunk.js": "/buen0-barbers/static/js/453.946b9335.chunk.js",
+    "static/media/MAIN LOGO LIGHT BROWN@4x.png": "/buen0-barbers/static/media/MAIN LOGO LIGHT BROWN@4x.7e8c719762172d8a2150.png",
+    "index.html": "/buen0-barbers/index.html",
+    "main.df985ef5.css.map": "/buen0-barbers/static/css/main.df985ef5.css.map",
+    "main.90c5fc09.js.map": "/buen0-barbers/static/js/main.90c5fc09.js.map",
+    "453.946b9335.chunk.js.map": "/buen0-barbers/static/js/453.946b9335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df985ef5.css",
+    "static/js/main.90c5fc09.js"
+  ]
+}
